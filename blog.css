@@ -1,14 +1,14 @@
 
-
+* {
+   padding: 0px;
+   margin: 0px;
+}
 .banner{
    background-image: url('/resources/bannerimage.png');
- 
-   
    background-size: cover;
    background-position: center;
    background-repeat: no-repeat;
    margin: 50px 140px;
-   background-blend-mode: saturation;
    border-radius: 16px;
    margin-bottom: 120px;
  
@@ -299,4 +299,90 @@ line-height: 32px;
 }
 .hpnicon {
    margin-top:40px;
+}
+.holiday-sale-text-content {
+   text-align: center;
+}
+.hs-title1 {
+   color: #070211;
+
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+margin-bottom: 16px;
+margin-left:600px ;
+margin-right: 600px;
+}
+.hs-title2 {
+   color: #070211;
+font-family: Merriweather;
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+margin-top: 0px;
+margin-bottom: 28px;
+mar
+margin: 0px 400px;
+}
+.red-holiday {
+   color: #F00;
+
+text-align: center;
+font-family: Merriweather;
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+
+}
+.holiday-sale-description {
+   color: rgba(7, 2, 17, 0.60);
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+margin: 0px 200px ;
+margin-bottom: 64px;
+
+
+}
+#dramatic-girl {
+   position: relative;
+   width: 429px;
+height: 433px;
+flex-shrink: 0;
+margin-left: 1030px;
+
+}
+
+#red-land {
+   width:25%
+   width: 1320px;
+height: 229px;
+flex-shrink: 0;
+margin-left: 140px;
+margin-top : -5px;
+
+}
+.magic-box {
+   position: absolute;
+   width: 25%;
+   width: 700px;
+   margin-top: 60px;
+  margin-left: -1310px;
+  margin-bottom: 0px;
+
+   
+
+flex-shrink: 0;
+}
+.discount-sign {
+   position: absolute;
+   width: 300px;
+
+flex-shrink: 0;
+margin-left: -590px;
+margin-top: -340px;
 }
