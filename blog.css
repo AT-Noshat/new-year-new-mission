@@ -386,3 +386,140 @@ flex-shrink: 0;
 margin-left: -590px;
 margin-top: -340px;
 }
+.portfolio {
+   text-align: left;
+   margin-top: 120px;
+   margin-left: 140px;
+}
+
+.pfh1 {
+   color: #F00;
+
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+margin-bottom: 16px;
+
+}
+.pfh2 {
+   color: #070211;
+
+   font-family: Merriweather;
+   font-size: 48px;
+   font-style: normal;
+   font-weight: 900;
+   line-height: normal;
+   text-transform: capitalize;
+   margin-bottom: 22px;
+
+}
+.pfd {
+   color: rgba(7, 2, 17, 0.60);
+
+   font-family: Inter;
+   font-size: 20px;
+   font-style: normal;
+   font-weight: 400;
+   line-height: 32px;
+   margin-bottom: 48px;
+}
+
+.subscribe-pannel {
+   width: 1320px;
+height: 616px;
+flex-shrink: 0;
+
+   border-radius: 16px;
+background: rgba(255, 0, 0, 0.05);
+margin-left: 140px;
+margin-top: 150px;
+}
+
+.email-icon {
+   width: 150px;
+height: 150px;
+flex-shrink: 0;
+margin: 80px 585px 40px;
+
+}
+.sp-text-contents {
+   text-align: center;
+   color: #070211;
+
+}
+.sph1{
+   color: #070211;
+
+text-align: center;
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+margin-bottom: 22px;
+}
+.spd {
+   color: rgba(7, 2, 17, 0.60);
+
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px;
+margin: 0px 212px;
+margin-bottom: 48px;
+}
+.email-input {
+   text-align: center;
+
+}
+.e-i {
+   width: 648px;
+   height: 72px;
+   flex-shrink: 0;
+   border-radius: 50px;
+background: #FFF;
+
+position: relative;
+}
+.email-input ::placeholder {
+   padding: 25px 400px 25px 20px;
+   color: rgba(7, 2, 17, 0.30);
+
+text-align: center;
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+
+}
+.sub-button {
+  text-align: center;
+
+}
+.btn {
+   position: absolute;
+   width: 210px;
+height: 72px;
+flex-shrink: 0;
+border-radius: 0px 50px 50px 0px;
+background: #F00;
+margin-left: 774px;
+margin-top: -74px;
+}
+.submit-button {
+   color: #FFF;
+
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+padding: 24px 53px 24px 53px;
+background: transparent;
+}
