@@ -4,7 +4,7 @@
    margin: 0px;
 }
 .banner{
-   background-image: url('/resources/bannerimage.png');
+   background-image: url('resources/bannerimage.png');
    background-size: cover;
    background-position: center;
    background-repeat: no-repeat;
@@ -435,6 +435,7 @@ flex-shrink: 0;
 background: rgba(255, 0, 0, 0.05);
 margin-left: 140px;
 margin-top: 150px;
+margin-bottom: 120px;
 }
 
 .email-icon {
@@ -514,12 +515,59 @@ margin-top: -74px;
 }
 .submit-button {
    color: #FFF;
-
 text-align: center;
 font-family: Inter;
 font-size: 20px;
-font-style: normal;
 font-weight: 600;
 padding: 24px 53px 24px 53px;
 background: transparent;
+border-radius:0px 48px 48px 0px ;
+}
+.foot {
+   position: relative;
+   width: 1600px;
+height: 609px;
+flex-shrink: 0;
+background: #070211;
+
+
+}
+.foot-texts {
+   color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 40px; /* 166.667% */
+}
+#top-right { 
+   position: absolute;
+   margin: 120px 291px 449px 1114px;
+}
+#top-left {
+   position: absolute;
+   margin:  120px 1085px 409px 140px;
+  
+}
+#call-icon {
+   
+   margin:128px 502px 457px 1074px ;
+}
+#website-icon {
+  margin: -30px 502px 417px -38px
+;
+} 
+.social-icons {
+   margin-left: 640px;
+   margin-top: -294px;
+   display: flex;
+   gap: 24px;
+}
+.left1 {
+   margin-left: 140px ;
+   margin-top: 50px;
+}
+.right1 {
+   margin-left: 1135px;
+   margin-top: -40px;
 }
