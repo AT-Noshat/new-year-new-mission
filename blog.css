@@ -1,5 +1,8 @@
 
-
+*{
+   margin: 0px;
+   padding: 0px;
+}
 .banner{
    background-image: url('resources/bannerimage.png');
    background-size: cover;
